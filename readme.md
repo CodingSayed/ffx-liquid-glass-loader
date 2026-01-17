@@ -1,4 +1,7 @@
 # Final Fantasy X - Inspired Liquid Glass Loading Screen
+
+<img src="assets/demo.gif" width="1000" alt="Demo of the liquid glass loading screen UI" /> 
+
 A calm, animated loading screen inspired by the serene, tropical atmosphere of 'Besaid Island'.
 
 Built with vanilla HTML, CSS & JavaScript, focusing on modern UI techniques such as liquid glass, animated gradients, and synchronized background slides.
